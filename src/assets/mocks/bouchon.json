@@ -1,0 +1,8 @@
+[
+    {"ref":"1","titre":"bugatti","prix":2000000},
+    {"ref":"2","titre":"twingo","prix":15000},
+    {"ref":"3","titre":"velo","prix":700},
+    {"ref":"4","titre":"trottinette","prix":50},
+    {"ref":"5","titre":"rollers","prix":20}
+]
+

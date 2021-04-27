@@ -1,0 +1,10 @@
+<p>catalog works!</p>
+<br/>
+
+<div  *ngFor = "let p of observableProductsFromDb$ | async">
+  {{p.titre}} / {{p.prix}}
+<button (click)="addPanier(p.tel)" class="btn btn-outline-primary">Ajout Panier</button>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
+<br/>
