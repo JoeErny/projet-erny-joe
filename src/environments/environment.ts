@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   baseUrl: '/assets/mocks/bouchon.json',
-  apiBddUrl: 'http://localhost/api/catalogue'
+  apiBddUrl: 'https://erny-joe-projet.herokuapp.com/api/catalogue'
 };
 
 /*
